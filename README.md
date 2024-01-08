@@ -1,1 +1,1 @@
-# Mediaquery challenge 
+# Mediaquery challenge (Basic web page)
